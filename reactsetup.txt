@@ -1,0 +1,4 @@
+CREATE APP
+go to website and INSTALL
+npm -g install create-react-app
+create-react-app my-app
